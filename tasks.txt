@@ -1,0 +1,7 @@
+1. databases
+2. authorization / authentication
+
+1. find environment
+2. adapt scalable architecture
+3. redis
+4. authentication
